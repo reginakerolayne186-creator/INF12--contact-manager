@@ -1,1 +1,1 @@
-# INF12--contact-manager
+# INF12-contact-manager
